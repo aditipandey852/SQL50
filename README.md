@@ -8,3 +8,5 @@ Here I will upload all SQL50 leetCode problem which I solved and I hope it will 
 2356. Number of Unique Subjects Taught by Each Teacher:- https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50
 
 1141. User Activity for the Past 30 Days I:- https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50
+
+620. Not Boring Movies:- https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50
